@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color :aqua ;
+}
+header {
+    background-color: blue;
+}
+body {
+    background-color: aquamarine;
+}
+p {
+    color: darkblue;
+}
+main p {
+    background-color: skyblue;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
